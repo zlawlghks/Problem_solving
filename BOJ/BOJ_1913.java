@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class BOJ_1913 {
 
-    // 좌표 설정 상 좌 우 하 순서
+    // 좌표 설정 상 우 하 좌 순서
     static int[] dy = {-1, 0, 1, 0};
     static int[] dx = {0, 1, 0, -1};
     static int map[][];
