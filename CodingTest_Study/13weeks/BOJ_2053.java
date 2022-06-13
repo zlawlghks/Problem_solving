@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 
-public class BOJ_2053_1 {
+public class BOJ_2053 {
 
     static int N;
 
