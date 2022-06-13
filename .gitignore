@@ -1,8 +1,1 @@
-\#test/
-.vscode
-workspace/
-
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
+*.iml
